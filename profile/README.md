@@ -1,12 +1,31 @@
-## Hi there 👋
+# Team TJS - Team Java Sucks
 
-<!--
+**TJS** stands for **Team Java Sucks**.  
+Yes, we write Java. No, we don’t like it. Yes, we mod Minecraft anyway.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About Us
+
+Team TJS is a group of Programmers who suffer through Java so you don’t have to.  
+We make cool, cursed, and occasionally actually useful mods for various versions of Minecraft — from quality-of-life tweaks to full-blown content expansions.
+
+---
+
+## What We Do
+
+- Minecraft mods in Java (Forge, Fabric, or whatever works — aka **nothing**)
+- Complain about Java while writing more Java
+
+---
+
+## Join Us
+
+Love Minecraft modding? Hate Java? You’ll fit right in.  
+Fork a repo, break stuff, and call it a feature.  
+*(Because that’s what Minecraft’s code does.)*
+
+---
+
+> **"Why is it called Team Java Sucks if you use Java?"**  
+> Because Minecraft chose violence.
