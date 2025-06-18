@@ -3,12 +3,12 @@
 > **TJS** stands for **Team Java Sucks**.
 > Yes, we write Java. No, we don’t like it. Yes, we mod Minecraft anyway.
 
-## 🧱 About Us
+## About Us
 
 **Team TJS** is a group of Minecraft modders who suffer through Java so you don’t have to.
 We make cool, cursed, and occasionally actually useful mods for various versions of Minecraft — from quality-of-life tweaks to full-blown content expansions.
 
-## 🛠 What We Do
+## What We Do
 
 - Minecraft mods in Java (Forge, Fabric, or whatever works — aka **nothing**)
 - Complain about Java while writing more Java
